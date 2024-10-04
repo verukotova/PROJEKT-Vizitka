@@ -60,10 +60,18 @@ body {
 }
 
 .twitter {
-    background-color: #1da1f2;
+    background: #1da1f2;
+    margin: 30px 0 5px 0;
+}
+
+.twitter:hover {
+    background: #0b7bc1;
 }
 
 .facebook {
-    background-color: #3b5998;
+    background: #3b5998;
 }
 
+.facebook:hover {
+    background: #2b406e;
+}
